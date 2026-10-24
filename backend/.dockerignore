@@ -1,0 +1,5 @@
+
+node_modules
+serviceAccountKey.json
+reachinbox.db
+npm-debug.log
